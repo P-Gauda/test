@@ -1,3 +1,4 @@
+
 select 
 --from raw orders
 o.order_id, o.order_date, o.ship_date, o.ship_mode, o.order_selling_price, o.order_cost_price,
