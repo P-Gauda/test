@@ -15,7 +15,7 @@ models:
           - not_null
       - name: ship_mode
         tests:
-         - accepted values:
+         - accepted_values:
              values:
                - 'First Class'
                - 'Same Day'
